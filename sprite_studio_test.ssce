@@ -326,6 +326,24 @@
 			<meshTriList />
 		</cell>
 		<cell>
+			<name>window</name>
+			<tags>
+				<value>Window</value>
+			</tags>
+			<pos>25 250</pos>
+			<size>396 260</size>
+			<pivot>0 0</pivot>
+			<rotated>0</rotated>
+			<orgImageName></orgImageName>
+			<posStable>0</posStable>
+			<ismesh>0</ismesh>
+			<divtype>unknown</divtype>
+			<innerPoint />
+			<outerPoint />
+			<meshPointList />
+			<meshTriList />
+		</cell>
+		<cell>
 			<name>body</name>
 			<tags>
 				<value>Unit</value>
