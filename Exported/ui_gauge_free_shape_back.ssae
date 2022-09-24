@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SpriteStudioAnimePack version="1.02.02" editorVersion="7.0.4">
+<SpriteStudioAnimePack version="1.02.02" editorVersion="6.6.0">
 	<settings>
 		<fps>30</fps>
 		<frameCount>11</frameCount>
@@ -119,13 +119,13 @@
 								<value>1</value>
 							</key>
 							<key time="1" ipType="linear">
-								<value>-97.194176</value>
+								<value>-97.1941757202148</value>
 							</key>
 							<key time="26" ipType="linear">
 								<value>-60</value>
 							</key>
 							<key time="40" ipType="linear">
-								<value>-33.459457</value>
+								<value>-33.4594573974609</value>
 							</key>
 							<key time="100" ipType="linear">
 								<value>1</value>
@@ -136,13 +136,13 @@
 								<value>0</value>
 							</key>
 							<key time="1" ipType="linear">
-								<value>-27.232582</value>
+								<value>-27.2325820922852</value>
 							</key>
 							<key time="26" ipType="linear">
-								<value>-16.603186</value>
+								<value>-16.6031856536865</value>
 							</key>
 							<key time="40" ipType="linear">
-								<value>-9.0416098</value>
+								<value>-9.04160976409912</value>
 							</key>
 							<key time="100" ipType="linear">
 								<value>0</value>
@@ -166,10 +166,10 @@
 						</attribute>
 						<attribute tag="UVTX">
 							<key time="0" ipType="linear">
-								<value>0.22400001</value>
+								<value>0.224000006914139</value>
 							</key>
 							<key time="1" ipType="linear">
-								<value>0.215</value>
+								<value>0.215000003576279</value>
 							</key>
 							<key time="100" ipType="linear">
 								<value>0</value>
