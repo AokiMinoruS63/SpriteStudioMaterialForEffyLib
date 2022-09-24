@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SpriteStudioAnimePack version="1.02.02" editorVersion="6.6.0">
+<SpriteStudioAnimePack version="1.02.02" editorVersion="7.0.4">
 	<settings>
 		<fps>30</fps>
 		<frameCount>11</frameCount>
@@ -297,24 +297,24 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>5.33334493637085</value>
+								<value>5.3333449</value>
 							</key>
 							<key time="30" ipType="linear">
-								<value>5.33334493637085</value>
+								<value>5.3333449</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>5.33334493637085</value>
+								<value>5.3333449</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>-60.6666564941406</value>
+								<value>-60.666656</value>
 							</key>
 							<key time="30" ipType="linear">
-								<value>-68.6666564941406</value>
+								<value>-68.666656</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>-60.6666564941406</value>
+								<value>-60.666656</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
@@ -356,12 +356,12 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>3.66665506362915</value>
+								<value>3.6666551</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>201.666656494141</value>
+								<value>201.66666</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
@@ -394,7 +394,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>25.3333473205566</value>
+								<value>25.333347</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -415,7 +415,7 @@
 								<value>1</value>
 							</key>
 							<key time="50" ipType="linear">
-								<value>0.100000001490116</value>
+								<value>0.1</value>
 							</key>
 							<key time="60" ipType="linear">
 								<value>1</value>
@@ -446,7 +446,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>-35.6666526794434</value>
+								<value>-35.666653</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -467,7 +467,7 @@
 								<value>1</value>
 							</key>
 							<key time="50" ipType="linear">
-								<value>0.100000001490116</value>
+								<value>0.1</value>
 							</key>
 							<key time="60" ipType="linear">
 								<value>1</value>
@@ -498,7 +498,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>2.00001430511475</value>
+								<value>2.0000143</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -542,29 +542,29 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>42.6666564941406</value>
+								<value>42.666656</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>42.6666564941406</value>
+								<value>42.666656</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>-53.8333435058594</value>
+								<value>-53.833344</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>-53.8333435058594</value>
+								<value>-53.833344</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>0.871310710906982</value>
+								<value>0.87131071</value>
 							</key>
 							<key time="30" ipType="linear">
-								<value>16.7398834228516</value>
+								<value>16.739883</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>0.871310710906982</value>
+								<value>0.87131071</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -604,10 +604,10 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>-33.6666641235352</value>
+								<value>-33.666664</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>-33.6666641235352</value>
+								<value>-33.666664</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -620,13 +620,13 @@
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>-1.76851797103882</value>
+								<value>-1.768518</value>
 							</key>
 							<key time="30" ipType="linear">
-								<value>-32.5865020751953</value>
+								<value>-32.586502</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>-1.76851797103882</value>
+								<value>-1.768518</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -682,13 +682,13 @@
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>50.7863845825195</value>
+								<value>50.786385</value>
 							</key>
 							<key time="30" ipType="linear">
-								<value>56.64453125</value>
+								<value>56.644531</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>50.7863845825195</value>
+								<value>50.786385</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -728,18 +728,18 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>-43.1165542602539</value>
+								<value>-43.116554</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>-43.1165542602539</value>
+								<value>-43.116554</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>92.1702499389648</value>
+								<value>92.17025</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>92.1702499389648</value>
+								<value>92.17025</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
@@ -787,29 +787,29 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>75.6666717529297</value>
+								<value>75.666672</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>75.6666717529297</value>
+								<value>75.666672</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>74.6666641235352</value>
+								<value>74.666664</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>74.6666641235352</value>
+								<value>74.666664</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>-55.0284843444824</value>
+								<value>-55.028484</value>
 							</key>
 							<key time="30" ipType="linear">
-								<value>-69.3986663818359</value>
+								<value>-69.398666</value>
 							</key>
 							<key time="60" ipType="linear">
-								<value>-55.0284843444824</value>
+								<value>-55.028484</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -871,12 +871,12 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>5.33334493637085</value>
+								<value>5.3333449</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>-60.6666564941406</value>
+								<value>-60.666656</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
@@ -909,12 +909,12 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>3.66665506362915</value>
+								<value>3.6666551</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>201.666656494141</value>
+								<value>201.66666</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
@@ -947,7 +947,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>34.3333473205566</value>
+								<value>34.333347</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -985,7 +985,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>-29.6666526794434</value>
+								<value>-29.666653</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -1023,7 +1023,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>2.00001430511475</value>
+								<value>2.0000143</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -1061,17 +1061,17 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>42.6666564941406</value>
+								<value>42.666656</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>-53.8333435058594</value>
+								<value>-53.833344</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>0.871310710906982</value>
+								<value>0.87131071</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -1099,7 +1099,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>-33.6666641235352</value>
+								<value>-33.666664</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
@@ -1109,7 +1109,7 @@
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>-1.76851797103882</value>
+								<value>-1.768518</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -1147,7 +1147,7 @@
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>50.7863845825195</value>
+								<value>50.786385</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -1175,12 +1175,12 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>-43.1165542602539</value>
+								<value>-43.116554</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>92.1702499389648</value>
+								<value>92.17025</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
@@ -1213,17 +1213,17 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="linear">
-								<value>75.6666717529297</value>
+								<value>75.666672</value>
 							</key>
 						</attribute>
 						<attribute tag="POSY">
 							<key time="0" ipType="linear">
-								<value>74.6666641235352</value>
+								<value>74.666664</value>
 							</key>
 						</attribute>
 						<attribute tag="ROTZ">
 							<key time="0" ipType="linear">
-								<value>-55.0284843444824</value>
+								<value>-55.028484</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">

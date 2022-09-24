@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SpriteStudioAnimePack version="1.02.02" editorVersion="6.6.0">
+<SpriteStudioAnimePack version="1.02.02" editorVersion="7.0.4">
 	<settings>
 		<fps>30</fps>
 		<frameCount>11</frameCount>
@@ -117,12 +117,12 @@
 						</attribute>
 						<attribute tag="SCLX">
 							<key time="0" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="SCLY">
 							<key time="0" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -193,8 +193,8 @@
 						</attribute>
 						<attribute tag="SCLX">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">0.837979078292847 0.270431905984879 -1 0</curve>
-								<value>0.800000011920929</value>
+								<curve syncStartEnd="1">0.837979 0.270432 -1 0</curve>
+								<value>0.80000001</value>
 							</key>
 							<key time="30" ipType="linear">
 								<value>1</value>
@@ -202,8 +202,8 @@
 						</attribute>
 						<attribute tag="SCLY">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">1.05555558204651 0.277894735336304 -1 0</curve>
-								<value>0.800000011920929</value>
+								<curve syncStartEnd="1">1.05556 0.277895 -1 0</curve>
+								<value>0.80000001</value>
 							</key>
 							<key time="30" ipType="linear">
 								<value>1</value>
@@ -343,20 +343,20 @@
 						</attribute>
 						<attribute tag="SCLX">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">0.827956974506378 -0.208421051502228 -1 0</curve>
+								<curve syncStartEnd="1">0.827957 -0.208421 -1 0</curve>
 								<value>1</value>
 							</key>
 							<key time="15" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="SCLY">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">0.799283146858215 -0.208421051502228 -1 0</curve>
+								<curve syncStartEnd="1">0.799283 -0.208421 -1 0</curve>
 								<value>1</value>
 							</key>
 							<key time="15" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="PRIO">
@@ -412,7 +412,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">0 -321.428466796875 -1 0</curve>
+								<curve syncStartEnd="1">0 -321.428 -1 0</curve>
 								<value>300</value>
 							</key>
 							<key time="30" ipType="linear">
@@ -434,17 +434,17 @@
 						</attribute>
 						<attribute tag="SCLX">
 							<key time="0" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="SCLY">
 							<key time="0" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="ALPH">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">5.69892454147339 0.972631633281708 -1 0</curve>
+								<curve syncStartEnd="1">5.69892 0.972632 -1 0</curve>
 								<value>0</value>
 							</key>
 							<key time="30" ipType="linear">
@@ -504,7 +504,7 @@
 						</attribute>
 						<attribute tag="POSX">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">20.5623264312744 148.407669067383 -23.6666660308838 21.3659629821777</curve>
+								<curve syncStartEnd="1">20.5623 148.408 -23.6667 21.366</curve>
 								<value>0</value>
 							</key>
 							<key time="30" ipType="linear">
@@ -526,17 +526,17 @@
 						</attribute>
 						<attribute tag="SCLX">
 							<key time="0" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="SCLY">
 							<key time="0" ipType="linear">
-								<value>0.800000011920929</value>
+								<value>0.80000001</value>
 							</key>
 						</attribute>
 						<attribute tag="ALPH">
 							<key time="0" ipType="bezier">
-								<curve syncStartEnd="1">5.69892454147339 0.972631633281708 -1 0</curve>
+								<curve syncStartEnd="1">5.69892 0.972632 -1 0</curve>
 								<value>1</value>
 							</key>
 							<key time="30" ipType="linear">

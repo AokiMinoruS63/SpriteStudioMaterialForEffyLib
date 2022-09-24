@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SpriteStudioCellMap version="1.00.02" editorVersion="6.6.0">
+<SpriteStudioCellMap version="1.00.02" editorVersion="7.0.4">
 	<name>sprite_studio_test</name>
 	<exportPath></exportPath>
 	<generator>SpriteStudio</generator>
@@ -98,7 +98,7 @@
 			</tags>
 			<pos>9 180</pos>
 			<size>238 46</size>
-			<pivot>0.432773113250732 0.0652173906564713</pivot>
+			<pivot>0.432773 0.0652174</pivot>
 			<rotated>0</rotated>
 			<orgImageName></orgImageName>
 			<posStable>0</posStable>
@@ -182,7 +182,7 @@
 			</tags>
 			<pos>920 96</pos>
 			<size>42 95</size>
-			<pivot>-0.0476190485060215 0.321052640676498</pivot>
+			<pivot>-0.047619 0.321053</pivot>
 			<rotated>0</rotated>
 			<orgImageName></orgImageName>
 			<posStable>0</posStable>
@@ -194,7 +194,7 @@
 			</tags>
 			<pos>964 96</pos>
 			<size>42 95</size>
-			<pivot>-0.0476190485060215 0.363157898187637</pivot>
+			<pivot>-0.047619 0.363158</pivot>
 			<rotated>0</rotated>
 			<orgImageName></orgImageName>
 			<posStable>0</posStable>
@@ -206,7 +206,7 @@
 			</tags>
 			<pos>920 4</pos>
 			<size>91 43</size>
-			<pivot>0.324175834655762 0.0348837226629257</pivot>
+			<pivot>0.324176 0.0348837</pivot>
 			<rotated>0</rotated>
 			<orgImageName></orgImageName>
 			<posStable>0</posStable>
@@ -218,7 +218,7 @@
 			</tags>
 			<pos>920 50</pos>
 			<size>91 43</size>
-			<pivot>-0.346153855323792 0.104651160538197</pivot>
+			<pivot>-0.346154 0.104651</pivot>
 			<rotated>0</rotated>
 			<orgImageName></orgImageName>
 			<posStable>0</posStable>
@@ -242,7 +242,7 @@
 			</tags>
 			<pos>4 4</pos>
 			<size>144 161</size>
-			<pivot>-0.020833333954215 -0.326086968183517</pivot>
+			<pivot>-0.0208333 -0.326087</pivot>
 			<rotated>0</rotated>
 			<orgImageName></orgImageName>
 			<posStable>0</posStable>

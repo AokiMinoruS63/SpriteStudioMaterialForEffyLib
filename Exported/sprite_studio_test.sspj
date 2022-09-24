@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SpriteStudioProject version="1.02.02" editorVersion="6.6.0">
+<SpriteStudioProject version="1.02.02" editorVersion="7.0.4">
 	<name>sprite_studio_test</name>
 	<exportPath></exportPath>
 	<settings>
@@ -129,10 +129,9 @@
 		<value>ui_window.ssae</value>
 		<value>unit.ssae</value>
 	</animepackNames>
-	<lastAnimeFile>ui_window.ssae</lastAnimeFile>
-	<lastAnimeName>0_normal</lastAnimeName>
-	<lastPart>button</lastPart>
+	<lastAnimeFile>ui_gauge_rectangle_front.ssae</lastAnimeFile>
+	<lastAnimeName>Setup</lastAnimeName>
+	<lastPart>root</lastPart>
 	<lastCellMapFile>sprite_studio_test.ssce</lastCellMapFile>
-	<lastCell>window</lastCell>
-	<lastEffectFile></lastEffectFile>
+	<lastCell>bar_thumb</lastCell>
 </SpriteStudioProject>
