@@ -11,7 +11,7 @@
 		<gridColor>FF808080</gridColor>
 		<outStartNum>0</outStartNum>
 	</settings>
-	<name>ui_gauge_rectangle_back</name>
+	<name>ui_gauge_rectangle_frame_back</name>
 	<exportPath></exportPath>
 	<Model>
 		<partList>
@@ -37,29 +37,8 @@
 				<expandChildren>1</expandChildren>
 			</value>
 			<value>
-				<name>advance</name>
-				<arrayIndex>1</arrayIndex>
-				<parentIndex>0</parentIndex>
-				<type>null</type>
-				<boundsType>none</boundsType>
-				<inheritType>parent</inheritType>
-				<ineheritRates>
-					<ALPH>1</ALPH>
-					<IFLH>0</IFLH>
-					<IFLV>0</IFLV>
-					<FLPH>0</FLPH>
-					<FLPV>0</FLPV>
-					<HIDE>0</HIDE>
-				</ineheritRates>
-				<alphaBlendType>mix</alphaBlendType>
-				<show>1</show>
-				<locked>0</locked>
-				<expandAttribute>0</expandAttribute>
-				<expandChildren>1</expandChildren>
-			</value>
-			<value>
 				<name>bar_value</name>
-				<arrayIndex>2</arrayIndex>
+				<arrayIndex>1</arrayIndex>
 				<parentIndex>0</parentIndex>
 				<type>normal</type>
 				<boundsType>none</boundsType>
@@ -111,46 +90,13 @@
 					</attributes>
 				</partAnime>
 				<partAnime>
-					<partName>advance</partName>
-					<attributes>
-						<attribute tag="POSX">
-							<key time="0" ipType="linear">
-								<value>-125</value>
-							</key>
-							<key time="100" ipType="linear">
-								<value>125</value>
-							</key>
-						</attribute>
-						<attribute tag="POSY">
-							<key time="0" ipType="linear">
-								<value>0</value>
-							</key>
-						</attribute>
-						<attribute tag="ROTZ">
-							<key time="0" ipType="linear">
-								<value>0</value>
-							</key>
-						</attribute>
-						<attribute tag="PRIO">
-							<key time="0" ipType="linear">
-								<value>0</value>
-							</key>
-						</attribute>
-						<attribute tag="HIDE">
-							<key time="0">
-								<value>0</value>
-							</key>
-						</attribute>
-					</attributes>
-				</partAnime>
-				<partAnime>
 					<partName>bar_value</partName>
 					<attributes>
 						<attribute tag="CELL">
 							<key time="0">
 								<value>
 									<mapId>0</mapId>
-									<name>bar_value</name>
+									<name>bar_frame_back</name>
 								</value>
 							</key>
 						</attribute>
@@ -173,8 +119,14 @@
 							<key time="0" ipType="linear">
 								<value>1</value>
 							</key>
+							<key time="25" ipType="linear">
+								<value>0.5</value>
+							</key>
 							<key time="50" ipType="linear">
-								<value>0.850000143051147</value>
+								<value>1</value>
+							</key>
+							<key time="75" ipType="linear">
+								<value>0.5</value>
 							</key>
 							<key time="100" ipType="linear">
 								<value>1</value>

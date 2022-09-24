@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<SpriteStudioAnimePack version="2.00.04" edition="Professional" editorVersion="6.6.0">
+<SpriteStudioAnimePack version="1.02.02" editorVersion="6.6.0">
 	<settings>
 		<fps>30</fps>
 		<frameCount>11</frameCount>
@@ -9,28 +9,9 @@
 		<bgColor>FF323232</bgColor>
 		<gridSize>32</gridSize>
 		<gridColor>FF808080</gridColor>
-		<ik_depth>3</ik_depth>
-		<startFrame>0</startFrame>
-		<endFrame>10</endFrame>
-		<bgSettings>
-			<value>
-				<imagePath></imagePath>
-				<imageDisp>1</imageDisp>
-				<imageOffset>0 0</imageOffset>
-				<imageCanvas>0 0</imageCanvas>
-				<imagePivot>0 0</imagePivot>
-			</value>
-			<value>
-				<imagePath></imagePath>
-				<imageDisp>1</imageDisp>
-				<imageOffset>0 0</imageOffset>
-				<imageCanvas>0 0</imageCanvas>
-				<imagePivot>0 0</imagePivot>
-			</value>
-		</bgSettings>
 		<outStartNum>0</outStartNum>
 	</settings>
-	<name>ui_gauge_free_shape_front</name>
+	<name>ui_gauge_free_shape_frame_front</name>
 	<exportPath></exportPath>
 	<Model>
 		<partList>
@@ -54,8 +35,6 @@
 				<locked>0</locked>
 				<expandAttribute>0</expandAttribute>
 				<expandChildren>1</expandChildren>
-				<refCellTag></refCellTag>
-				<maskInfluence>1</maskInfluence>
 			</value>
 			<value>
 				<name>frame</name>
@@ -77,66 +56,13 @@
 				<locked>0</locked>
 				<expandAttribute>0</expandAttribute>
 				<expandChildren>1</expandChildren>
-				<refCellTag></refCellTag>
-				<maskInfluence>1</maskInfluence>
 			</value>
 		</partList>
-		<boneList />
-		<meshList />
 	</Model>
 	<cellmapNames>
 		<value>sprite_studio_test.ssce</value>
 	</cellmapNames>
 	<animeList>
-		<anime>
-			<name>Setup</name>
-			<overrideSettings>1</overrideSettings>
-			<settings>
-				<fps>60</fps>
-				<frameCount>1</frameCount>
-				<sortMode>prio</sortMode>
-				<canvasSize>320 320</canvasSize>
-				<pivot>0 0</pivot>
-				<bgColor>FF323232</bgColor>
-				<gridSize>32</gridSize>
-				<gridColor>FF808080</gridColor>
-				<ik_depth>3</ik_depth>
-				<startFrame>0</startFrame>
-				<endFrame>0</endFrame>
-				<bgSettings>
-					<value>
-						<imagePath></imagePath>
-						<imageDisp>1</imageDisp>
-						<imageOffset>0 0</imageOffset>
-						<imageCanvas>0 0</imageCanvas>
-						<imagePivot>0 0</imagePivot>
-					</value>
-					<value>
-						<imagePath></imagePath>
-						<imageDisp>1</imageDisp>
-						<imageOffset>0 0</imageOffset>
-						<imageCanvas>0 0</imageCanvas>
-						<imagePivot>0 0</imagePivot>
-					</value>
-				</bgSettings>
-				<outStartNum>0</outStartNum>
-			</settings>
-			<labels />
-			<guidelines />
-			<isSetup>1</isSetup>
-			<partAnimes>
-				<partAnime>
-					<partName>root</partName>
-					<attributes>
-						<attribute tag="HIDE">
-							<key time="0">
-								<value>0</value>
-							</key>
-						</attribute>
-					</attributes>
-				</partAnime>
-			</partAnimes>
-		</anime>
 		<anime>
 			<name>anime</name>
 			<overrideSettings>1</overrideSettings>
@@ -149,30 +75,9 @@
 				<bgColor>FF323232</bgColor>
 				<gridSize>32</gridSize>
 				<gridColor>FF808080</gridColor>
-				<ik_depth>3</ik_depth>
-				<startFrame>0</startFrame>
-				<endFrame>100</endFrame>
-				<bgSettings>
-					<value>
-						<imagePath></imagePath>
-						<imageDisp>1</imageDisp>
-						<imageOffset>0 0</imageOffset>
-						<imageCanvas>0 0</imageCanvas>
-						<imagePivot>0 0</imagePivot>
-					</value>
-					<value>
-						<imagePath></imagePath>
-						<imageDisp>1</imageDisp>
-						<imageOffset>0 0</imageOffset>
-						<imageCanvas>0 0</imageCanvas>
-						<imagePivot>0 0</imagePivot>
-					</value>
-				</bgSettings>
 				<outStartNum>0</outStartNum>
 			</settings>
 			<labels />
-			<guidelines />
-			<isSetup>0</isSetup>
 			<partAnimes>
 				<partAnime>
 					<partName>root</partName>

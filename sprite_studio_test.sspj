@@ -204,28 +204,32 @@
 	<animepackNames>
 		<value>ui_button.ssae</value>
 		<value>ui_gauge_free_shape_back.ssae</value>
-		<value>ui_gauge_free_shape_front.ssae</value>
+		<value>ui_gauge_free_shape_frame_back.ssae</value>
+		<value>ui_gauge_free_shape_frame_front.ssae</value>
 		<value>ui_gauge_free_shape_mask.ssae</value>
 		<value>ui_gauge_rectangle_back.ssae</value>
+		<value>ui_gauge_rectangle_frame_back.ssae</value>
 		<value>ui_gauge_rectangle_front.ssae</value>
 		<value>ui_gauge_rectangle_thumb.ssae</value>
 		<value>ui_window.ssae</value>
 		<value>unit.ssae</value>
 	</animepackNames>
-	<lastAnimeFile>ui_window.ssae</lastAnimeFile>
-	<lastAnimeName>0_normal</lastAnimeName>
-	<lastPart>button</lastPart>
+	<lastAnimeFile>ui_gauge_rectangle_back.ssae</lastAnimeFile>
+	<lastAnimeName>anime</lastAnimeName>
+	<lastPart>root</lastPart>
 	<lastCellMapFile>sprite_studio_test.ssce</lastCellMapFile>
-	<lastCell>window</lastCell>
+	<lastCell>gauge_frame_back</lastCell>
 	<lastEffectFile></lastEffectFile>
 	<setupmode>0</setupmode>
 	<expandAnimation>
 		<value>ui_gauge_free_shape_back.ssae</value>
-		<value>ui_gauge_free_shape_front.ssae</value>
+		<value>ui_gauge_free_shape_frame_front.ssae</value>
 		<value>ui_gauge_free_shape_mask.ssae</value>
-		<value>ui_gauge_rectangle_back.ssae</value>
+		<value>ui_gauge_rectangle_frame_back.ssae *</value>
 		<value>ui_gauge_rectangle_front.ssae</value>
 		<value>ui_gauge_rectangle_thumb.ssae</value>
+		<value>ui_window.ssae</value>
+		<value>unit.ssae</value>
 	</expandAnimation>
 	<expandSequence />
 </SpriteStudioProject>

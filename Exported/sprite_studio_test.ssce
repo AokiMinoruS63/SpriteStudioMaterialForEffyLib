@@ -236,6 +236,30 @@
 			<posStable>0</posStable>
 		</cell>
 		<cell>
+			<name>bar_frame_back</name>
+			<tags>
+				<value>RectangleBar</value>
+			</tags>
+			<pos>441 268</pos>
+			<size>248 20</size>
+			<pivot>0 0</pivot>
+			<rotated>0</rotated>
+			<orgImageName></orgImageName>
+			<posStable>0</posStable>
+		</cell>
+		<cell>
+			<name>gauge_frame_back</name>
+			<tags>
+				<value>FreeShapeBar</value>
+			</tags>
+			<pos>435 300</pos>
+			<size>240 48</size>
+			<pivot>0 0</pivot>
+			<rotated>0</rotated>
+			<orgImageName></orgImageName>
+			<posStable>0</posStable>
+		</cell>
+		<cell>
 			<name>body</name>
 			<tags>
 				<value>Unit</value>
