@@ -51,7 +51,7 @@
 					<FLPV>0</FLPV>
 					<HIDE>0</HIDE>
 				</ineheritRates>
-				<alphaBlendType>mix</alphaBlendType>
+				<alphaBlendType>sub</alphaBlendType>
 				<show>1</show>
 				<locked>0</locked>
 				<expandAttribute>0</expandAttribute>
@@ -123,6 +123,18 @@
 						<attribute tag="HIDE">
 							<key time="0">
 								<value>0</value>
+							</key>
+						</attribute>
+						<attribute tag="VCOL">
+							<key time="0" ipType="linear">
+								<value>
+									<target>whole</target>
+									<blendType>sub</blendType>
+									<color>
+										<rgba>FF808080</rgba>
+										<rate>1</rate>
+									</color>
+								</value>
 							</key>
 						</attribute>
 					</attributes>

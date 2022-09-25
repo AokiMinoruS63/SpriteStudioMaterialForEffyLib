@@ -131,10 +131,10 @@
 		<value>ui_window.ssae</value>
 		<value>unit.ssae</value>
 	</animepackNames>
-	<lastAnimeFile>ui_gauge_rectangle_back.ssae</lastAnimeFile>
+	<lastAnimeFile>ui_gauge_free_shape_mask.ssae</lastAnimeFile>
 	<lastAnimeName>anime</lastAnimeName>
-	<lastPart>root</lastPart>
+	<lastPart>gauge_mask</lastPart>
 	<lastCellMapFile>sprite_studio_test.ssce</lastCellMapFile>
-	<lastCell>gauge_frame_back</lastCell>
+	<lastCell>gauge_mask</lastCell>
 	<lastEffectFile></lastEffectFile>
 </SpriteStudioProject>
