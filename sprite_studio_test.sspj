@@ -127,6 +127,18 @@
 				<name>Window</name>
 				<color>FF5FD255</color>
 			</value>
+			<value>
+				<name>radio</name>
+				<color>FFFFD527</color>
+			</value>
+			<value>
+				<name>check</name>
+				<color>FF00D2F0</color>
+			</value>
+			<value>
+				<name>toggle</name>
+				<color>FFEFA59B</color>
+			</value>
 		</cellTags>
 		<useDecimalDigit>2</useDecimalDigit>
 		<opacifyOutsideCanvasFrame>1</opacifyOutsideCanvasFrame>
@@ -218,14 +230,13 @@
 	<lastAnimeName>anime</lastAnimeName>
 	<lastPart>root</lastPart>
 	<lastCellMapFile>sprite_studio_test.ssce</lastCellMapFile>
-	<lastCell>gauge_frame_back</lastCell>
+	<lastCell>toggle_back</lastCell>
 	<lastEffectFile></lastEffectFile>
 	<setupmode>0</setupmode>
 	<expandAnimation>
 		<value>ui_gauge_free_shape_back.ssae</value>
 		<value>ui_gauge_free_shape_frame_front.ssae</value>
 		<value>ui_gauge_free_shape_mask.ssae</value>
-		<value>ui_gauge_rectangle_frame_back.ssae *</value>
 		<value>ui_gauge_rectangle_front.ssae</value>
 		<value>ui_gauge_rectangle_thumb.ssae</value>
 		<value>ui_window.ssae</value>
