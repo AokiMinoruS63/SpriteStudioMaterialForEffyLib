@@ -95,6 +95,18 @@
 				<name>Window</name>
 				<color>FF5FD255</color>
 			</value>
+			<value>
+				<name>radio</name>
+				<color>FFFFD527</color>
+			</value>
+			<value>
+				<name>check</name>
+				<color>FF00D2F0</color>
+			</value>
+			<value>
+				<name>toggle</name>
+				<color>FFEFA59B</color>
+			</value>
 		</cellTags>
 	</settings>
 	<animeSettings>
@@ -120,6 +132,8 @@
 	</cellmapNames>
 	<animepackNames>
 		<value>ui_button.ssae</value>
+		<value>ui_checkbox_back.ssae</value>
+		<value>ui_checkbox_front.ssae</value>
 		<value>ui_gauge_free_shape_back.ssae</value>
 		<value>ui_gauge_free_shape_frame_back.ssae</value>
 		<value>ui_gauge_free_shape_frame_front.ssae</value>
@@ -128,13 +142,17 @@
 		<value>ui_gauge_rectangle_frame_back.ssae</value>
 		<value>ui_gauge_rectangle_front.ssae</value>
 		<value>ui_gauge_rectangle_thumb.ssae</value>
+		<value>ui_radio_button_back.ssae</value>
+		<value>ui_radio_button_front.ssae</value>
+		<value>ui_toggle_back.ssae</value>
+		<value>ui_toggle_thumb.ssae</value>
 		<value>ui_window.ssae</value>
 		<value>unit.ssae</value>
 	</animepackNames>
-	<lastAnimeFile>ui_gauge_free_shape_mask.ssae</lastAnimeFile>
-	<lastAnimeName>anime</lastAnimeName>
-	<lastPart>gauge_mask</lastPart>
+	<lastAnimeFile>ui_toggle_back.ssae</lastAnimeFile>
+	<lastAnimeName>3_on_to_off</lastAnimeName>
+	<lastPart>thumb</lastPart>
 	<lastCellMapFile>sprite_studio_test.ssce</lastCellMapFile>
-	<lastCell>gauge_mask</lastCell>
+	<lastCell>toggle_thumb</lastCell>
 	<lastEffectFile></lastEffectFile>
 </SpriteStudioProject>
